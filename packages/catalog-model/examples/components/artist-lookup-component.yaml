@@ -34,7 +34,7 @@ metadata:
 spec:
   type: service
   lifecycle: experimental
-  owner: team-a
+  owner: artist-a@example.com
   system: artist-engagement-portal
   dependsOn: ['resource:artists-db']
   apiConsumedBy: ['component:www-artist']
